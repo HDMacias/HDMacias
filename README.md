@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprende programación
 - 🌱 I’m currently learning a utilizar algunos programas
 - 💞️ I’m looking to collaborate on a mi familia en el crecimiento de esta
-- 📫 How to reach me
+- 📫 How to reach me hacia el mañana 
 
 <!---
 HDMacias/HDMacias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
