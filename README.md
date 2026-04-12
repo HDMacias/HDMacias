@@ -45,7 +45,8 @@ Tecnólogo en Mecatrónica reconvertido al mundo del desarrollo web. Actualmente
 
 ##  Contacto
 
-[![LinkedIn](www.linkedin.com/in/hernan-daniel-macias-hernandez-55a915209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]
+(www.linkedin.com/in/hernan-daniel-macias-hernandez-55a915209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hernanmacias2003@hotmail.com)
 
 📍 Barranquilla, Colombia — disponible para trabajo **remoto**
