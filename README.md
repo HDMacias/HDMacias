@@ -1,6 +1,6 @@
 # Hola, soy Hernán Macías 
 
-### Desarrollador Full Stack en formación | Henry Bootcamp FSFT
+### Desarrollador Full Stack | Henry Bootcamp FSFT
 
 Tecnólogo en Mecatrónica reconvertido al mundo del desarrollo web. Actualmente construyendo proyectos reales con JavaScript, Node.js y PostgreSQL.
 
